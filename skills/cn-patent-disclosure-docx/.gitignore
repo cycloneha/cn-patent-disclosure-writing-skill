@@ -1,0 +1,15 @@
+*.docx
+*.pdf
+*.zip
+*.tmp
+*.bak
+*.swp
+*.swo
+__pycache__/
+.DS_Store
+Thumbs.db
+output/
+dist/
+build/
+tmp/
+temp/

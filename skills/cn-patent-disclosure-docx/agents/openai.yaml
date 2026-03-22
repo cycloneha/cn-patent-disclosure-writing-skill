@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文专利交底书生成"
+  short_description: "通用中文专利交底书写作、公式整理与 DOCX 交付技能"
+  default_prompt: "Use $cn-patent-disclosure-docx to draft or revise a Chinese patent disclosure with generic, compliant wording, Word-friendly formulas, and DOCX output."
+
+policy:
+  allow_implicit_invocation: true
